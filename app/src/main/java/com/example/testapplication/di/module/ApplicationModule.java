@@ -6,8 +6,6 @@ import android.content.Context;
 import com.example.testapplication.di.ApplicationContext;
 
 
-import javax.inject.Singleton;
-
 import dagger.Module;
 import dagger.Provides;
 
